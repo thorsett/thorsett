@@ -1,4 +1,4 @@
-## Hi there 👋
+I'm an astrophysicist and academic administrator, currently a professor of physics and president at Willamette University in Salem and Portland, Oregon.
 
 <!--
 **thorsett/thorsett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
